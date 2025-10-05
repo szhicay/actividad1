@@ -1,4 +1,4 @@
-Proyectos creados 
+** Proyectos creados **
 
 •	Java
 •	Html
@@ -6,11 +6,11 @@ Proyectos creados
 •	Nodejs
 
 
-comandos para crear la imagen 
+** comandos para crear la imagen **
 
 docker build -t app-html .
 
-comando crea y ejecuta un contenedor
+** comando crea y ejecuta un contenedor **
 
 docker run -dp  8000:80  app-html
 
